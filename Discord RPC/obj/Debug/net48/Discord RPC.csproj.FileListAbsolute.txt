@@ -1,0 +1,16 @@
+C:\Users\jared\source\repos\Discord RPC\Discord RPC\obj\Debug\net48\Discord RPC.csproj.AssemblyReference.cache
+C:\Users\jared\source\repos\Discord RPC\Discord RPC\obj\Debug\net48\Discord_RPC.Form1.resources
+C:\Users\jared\source\repos\Discord RPC\Discord RPC\obj\Debug\net48\Discord RPC.csproj.GenerateResource.cache
+C:\Users\jared\source\repos\Discord RPC\Discord RPC\obj\Debug\net48\Discord RPC.AssemblyInfoInputs.cache
+C:\Users\jared\source\repos\Discord RPC\Discord RPC\obj\Debug\net48\Discord RPC.AssemblyInfo.cs
+C:\Users\jared\source\repos\Discord RPC\Discord RPC\obj\Debug\net48\Discord RPC.csproj.CoreCompileInputs.cache
+C:\Users\jared\source\repos\Discord RPC\Discord RPC\bin\Debug\net48\Discord RPC.exe.config
+C:\Users\jared\source\repos\Discord RPC\Discord RPC\bin\Debug\net48\Discord RPC.exe
+C:\Users\jared\source\repos\Discord RPC\Discord RPC\bin\Debug\net48\Discord RPC.pdb
+C:\Users\jared\source\repos\Discord RPC\Discord RPC\obj\Debug\net48\Discord RPC.exe
+C:\Users\jared\source\repos\Discord RPC\Discord RPC\obj\Debug\net48\Discord RPC.pdb
+C:\Users\jared\source\repos\Discord RPC\Discord RPC\bin\Debug\net48\Siticone.UI.dll
+C:\Users\jared\source\repos\Discord RPC\Discord RPC\obj\Debug\net48\Discord RPC.csproj.CopyComplete
+C:\Users\jared\source\repos\Discord RPC\Discord RPC\obj\Debug\net48\Discord RPC.exe.config
+C:\Users\jared\source\repos\Discord RPC\Discord RPC\bin\Debug\net48\DiscordRPC.dll
+C:\Users\jared\source\repos\Discord RPC\Discord RPC\bin\Debug\net48\Newtonsoft.Json.dll
