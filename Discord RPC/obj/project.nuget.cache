@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "v1Ix3crXw7wLMbpkWak38Hn2BVqWZBvGTQoyyqp/mquZsjBWhtP2gMxlO9qAR9No5lba5QartxmJUJzjZMbjNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jared\\source\\repos\\Discord RPC\\Discord RPC\\Discord RPC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jared\\.nuget\\packages\\discordrichpresence\\1.0.175\\discordrichpresence.1.0.175.nupkg.sha512",
+    "C:\\Users\\jared\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\jared\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
