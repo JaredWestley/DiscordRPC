@@ -14,8 +14,8 @@
 
 -To get your ClientID, head over to https://discord.com/developers and create a new application, copy the ClientID and paste it into DiscordRPC
 
-
 -hit save and start it!
+
 <img alt="Custom page" src="assets/NVIDIA_Share_aKy4A3J9AP.gif" />
 
 
