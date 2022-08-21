@@ -14,8 +14,10 @@
 
 -To get your ClientID, head over to https://discord.com/developers and create a new application, copy the ClientID and paste it into DiscordRPC
 
-<img alt="Custom page" src="assets/NVIDIA_Share_aKy4A3J9AP.gif" />
+
 -hit save and start it!
+<img alt="Custom page" src="assets/NVIDIA_Share_aKy4A3J9AP.gif" />
+
 
 #### Contributing
 If you have any idea how to make this app better, please [create a pull request](https://github.com/JaredWestley/DiscordRPC/compare). If you find any bug, please [create an issue](https://github.com/JaredWestley/DiscordRPC/issues/new).
